@@ -1,0 +1,15 @@
+{
+  "name": "crypto-bits-review-cypress",
+  "version": "1.0.0",
+  "description": "cryptobitsreview.com cypress automation tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "open": "node_modules\\.bin\\cypress open"
+  },
+  "author": "Jovica Raicki",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^4.7.0"
+  }
+}
